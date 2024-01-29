@@ -22,7 +22,7 @@
 
 <p align="left">
 <a href="https://t.me/damaloonazhret" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="damaloonazhret | Telegram" height="30" width="30" /></a>
-<a href="https://discordapp.com/users/aaanyway" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="aaanyway | Discord" height="30" width="30" /></a>
+<a href="https://discordapp.com/users/onfire8600" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="onfire | Discord" height="30" width="30" /></a>
 <a href="https://www.instagram.com/damaloonazhret/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="damaloonazhret | Instagram" height="30" width="30" /></a>
 <a href="mailto:poiprizamoda@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="poiprizamoda@gmail.com | Gmail" height="30" width="30" /></a>
 </p>
