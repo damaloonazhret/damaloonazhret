@@ -21,18 +21,14 @@
 ### 📡 Let's Connect and have a Chat!:
 
 <p align="left">
-<a href="https://linkedin.com/in/nikname" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="nikname | LinkedIn" height="30" width="30" /></a>
-<a href="https://t.me/alcotras" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="alcotras | Telegram" height="30" width="30" /></a>
+<a href="https://t.me/damaloonazhret" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="damaloonazhret | Telegram" height="30" width="30" /></a>
 <a href="https://discordapp.com/users/aaanyway" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="aaanyway | Discord" height="30" width="30" /></a>
-<a href="https://www.instagram.com/aaanywaay/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="aaanyway | Instagram" height="30" width="30" /></a>
-<a href="mailto:aimdragman2@yandex.ru" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="aimdragman2@yandex.ru | Gmail" height="30" width="30" /></a>
+<a href="https://www.instagram.com/damaloonazhret/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="damaloonazhret | Instagram" height="30" width="30" /></a>
+<a href="mailto:poiprizamoda@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="poiprizamoda@gmail.com | Gmail" height="30" width="30" /></a>
 </p>
 
 <div id="badges">
-  <a href="https://linkedin.com/in/andrey-alekseev-501173202" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/alcotras" target="_blank">
+  <a href="https://t.me/damaloonazhret" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
 </div>
