@@ -16,7 +16,7 @@
 - 🚀 I am fueled by the excitement of pushing boundaries and exploring uncharted territories
 - 🌍 Connecting with diverse minds is like embarking on a thrilling adventure, where I discover fresh perspectives and forge meaningful connections
 
-- <a href="https://www.codewars.com/users/damaloonazhret" display="block" aling="center"><img src="https://www.codewars.com/users/damaloonazhret/badges/large" alt="codewars"/></a>
+- <a href="https://www.codewars.com/users/rsschool_147aed756a33bb1e" display="block" aling="center"><img src="https://www.codewars.com/users/rsschool_147aed756a33bb1e/badges/large" alt="codewars"/></a>
 
 ### 📡 Let's Connect and have a Chat!:
 
