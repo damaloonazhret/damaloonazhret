@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Andrey</h1>
 <p align="center">
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=320&lines=Software+developer+from+2La" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=325&lines=Software+developer+from+2La" alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center">💻 Tech Stack:</h2>
