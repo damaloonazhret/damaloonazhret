@@ -1,13 +1,13 @@
 <p align="center" title="Random gradient after page reload (～￣▽￣)～">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20there!&height=100&section=header" alt="Hello there!"/>
 </p>
-<h1 align="center">It's me, Andrey Alekseev on GitHub!✨</h1>
+<h1 align="center">It's me, Andrey Mironov on GitHub!✨</h1>
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=585&lines=My+name+is+Andrey+and+I+am+a+Front-end+developer" alt="Typing SVG" /></a></h3>
 
 
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alcotras71&label=Profile%20views&color=0e75b6&style=flat" alt="alcotras71 | Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=damaloonazhret&label=Profile%20views&color=0e75b6&style=flat" alt="damaloonazhret | Views" /> </p>
 
 - 🔥 I derive immense pleasure from crafting code
 
