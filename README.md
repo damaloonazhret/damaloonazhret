@@ -69,7 +69,3 @@
 
 ### :bar_chart: My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damaloonazhret&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center"> 
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=damaloonazhret&icon=0&color=0" alt="visitors"/></a>
-</p>
