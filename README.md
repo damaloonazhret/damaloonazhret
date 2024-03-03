@@ -3,7 +3,17 @@
 </p>
 <h1 align="center">It's me, Andrey Mironov on GitHub!✨</h1>
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=585&lines=My+name+is+Andrey+and+I+am+a+Front-end+developer" alt="Typing SVG" /></a></h3>
-
+ 
+ .o8                                    o8o  oooo        
+"888                                    `"'  `888        
+ 888oooo.   .oooo.   oooo d8b  .oooo.o oooo   888  oooo  
+ d88' `88b `P  )88b  `888""8P d88(  "8 `888   888 .8P'   
+ 888   888  .oP"888   888     `"Y88b.   888   888888.    
+ 888   888 d8(  888   888     o.  )88b  888   888 `88b.  
+ `Y8bod8P' `Y888""8o d888b    8""888P' o888o o888o o888o 
+                                                         
+                                                         
+                                                                                                                                                                                                                       
 
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
 
