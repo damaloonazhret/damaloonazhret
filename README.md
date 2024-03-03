@@ -4,12 +4,6 @@
 <h1 align="center">It's me, Andrey Mironov on GitHub!✨</h1>
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=585&lines=My+name+is+Andrey+and+I+am+a+Front-end+developer" alt="Typing SVG" /></a></h3>
 
-    __                    _ __  
-   / /_  ____ ___________(_) /__
-  / __ \/ __ `/ ___/ ___/ / //_/
- / /_/ / /_/ / /  (__  ) / ,<   
-/_.___/\__,_/_/  /____/_/_/|_|  
-                                
 
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
 
