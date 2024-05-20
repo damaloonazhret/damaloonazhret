@@ -5,7 +5,8 @@
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=585&lines=My+name+is+Andrey+and+I+am+a+Front-end+developer" alt="Typing SVG" /></a></h3>
 
 
-<img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
+<img align="right" alt="Coding" width="20%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
+<img align="right" alt="Coding" width="20%" src="https://filed6-2.my.mail.ru/pic?url=http%3A%2F%2Fmirgif.com%2Fmult%2Fmultfilm-51.gif&mw=&mh=&sig=e3e1bad93349a5069226d2bd4ff92206" alt="mikki dancing"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damaloonazhret&label=Profile%20views&color=0e75b6&style=flat" alt="damaloonazhret | Views" /> </p>
 
@@ -17,8 +18,6 @@
 - 🌍 Connecting with diverse minds is like embarking on a thrilling adventure, where I discover fresh perspectives and forge meaningful connections
 
 - <a href="https://www.codewars.com/users/rsschool_147aed756a33bb1e" display="block" aling="center"><img src="https://www.codewars.com/users/rsschool_147aed756a33bb1e/badges/large" alt="codewars"/></a>
-<img align="right" alt="Coding" width="30%" src="https://i.pinimg.com/originals/82/2f/3a/822f3a45f7b17698edbec54cdf4b85d6.gif" alt="bmo dancing"/>
-<img align="right" alt="Coding" width="30%" src="https://filed6-2.my.mail.ru/pic?url=http%3A%2F%2Fmirgif.com%2Fmult%2Fmultfilm-51.gif&mw=&mh=&sig=e3e1bad93349a5069226d2bd4ff92206" alt="bmo dancing"/>
 
 ### 📡 Let's Connect and have a Chat!:
 
