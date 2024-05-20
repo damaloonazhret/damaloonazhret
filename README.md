@@ -6,7 +6,6 @@
 
 
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
-<img align="right" alt="Coding" width="30%" src="https://i.pinimg.com/originals/82/2f/3a/822f3a45f7b17698edbec54cdf4b85d6.gif" alt="bmo dancing"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damaloonazhret&label=Profile%20views&color=0e75b6&style=flat" alt="damaloonazhret | Views" /> </p>
 
@@ -18,6 +17,7 @@
 - 🌍 Connecting with diverse minds is like embarking on a thrilling adventure, where I discover fresh perspectives and forge meaningful connections
 
 - <a href="https://www.codewars.com/users/rsschool_147aed756a33bb1e" display="block" aling="center"><img src="https://www.codewars.com/users/rsschool_147aed756a33bb1e/badges/large" alt="codewars"/></a>
+<img align="right" alt="Coding" width="30%" src="https://i.pinimg.com/originals/82/2f/3a/822f3a45f7b17698edbec54cdf4b85d6.gif" alt="bmo dancing"/>
 
 ### 📡 Let's Connect and have a Chat!:
 
