@@ -18,6 +18,7 @@
 
 - <a href="https://www.codewars.com/users/rsschool_147aed756a33bb1e" display="block" aling="center"><img src="https://www.codewars.com/users/rsschool_147aed756a33bb1e/badges/large" alt="codewars"/></a>
 <img align="right" alt="Coding" width="30%" src="https://i.pinimg.com/originals/82/2f/3a/822f3a45f7b17698edbec54cdf4b85d6.gif" alt="bmo dancing"/>
+<img align="right" alt="Coding" width="30%" src="https://filed6-2.my.mail.ru/pic?url=http%3A%2F%2Fmirgif.com%2Fmult%2Fmultfilm-51.gif&mw=&mh=&sig=e3e1bad93349a5069226d2bd4ff92206" alt="bmo dancing"/>
 
 ### 📡 Let's Connect and have a Chat!:
 
